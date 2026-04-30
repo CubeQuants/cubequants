@@ -26,6 +26,11 @@ https://www.cubequants.com/
 
 ---
 
+## 🌐 帮助中心
+
+https://www.cubequants.com/help.html
+
+---
 ## 📢 说明
 
 本项目为量化工具，仅供学习与研究使用
